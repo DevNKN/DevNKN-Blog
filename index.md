@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "DevNKN"
 ---
 
-I'm glad you are here. I plan to talk about ...
+⚠️ We're working hard to get this site working. ⚠️
